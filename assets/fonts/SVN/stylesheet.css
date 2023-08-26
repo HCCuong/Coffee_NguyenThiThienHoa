@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SVN-Neutraface 2';
+    src: url('SVN-Neutraface2.eot');
+    src: url('SVN-Neutraface2.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Neutraface2.woff2') format('woff2'),
+        url('SVN-Neutraface2.woff') format('woff'),
+        url('SVN-Neutraface2.ttf') format('truetype'),
+        url('SVN-Neutraface2.svg#SVN-Neutraface2') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

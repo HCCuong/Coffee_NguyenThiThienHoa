@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM Hanzel';
+    src: url('UTMHanzel.eot');
+    src: url('UTMHanzel.eot?#iefix') format('embedded-opentype'),
+        url('UTMHanzel.woff2') format('woff2'),
+        url('UTMHanzel.woff') format('woff'),
+        url('UTMHanzel.ttf') format('truetype'),
+        url('UTMHanzel.svg#UTMHanzel') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

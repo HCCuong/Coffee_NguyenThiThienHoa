@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'VL Monalisa script';
+    src: url('VLMonalisascript.eot');
+    src: url('VLMonalisascript.eot?#iefix') format('embedded-opentype'),
+        url('VLMonalisascript.woff2') format('woff2'),
+        url('VLMonalisascript.woff') format('woff'),
+        url('VLMonalisascript.ttf') format('truetype'),
+        url('VLMonalisascript.svg#VLMonalisascript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VL Kazincbarcika Script';
+    src: url('VLKazincbarcikaScript.eot');
+    src: url('VLKazincbarcikaScript.eot?#iefix') format('embedded-opentype'),
+        url('VLKazincbarcikaScript.woff2') format('woff2'),
+        url('VLKazincbarcikaScript.woff') format('woff'),
+        url('VLKazincbarcikaScript.ttf') format('truetype'),
+        url('VLKazincbarcikaScript.svg#VLKazincbarcikaScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
